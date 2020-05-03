@@ -1,1 +1,51 @@
+<!doctype html>
+  <html>
+    <head>
+      <title> CCS стилі. Лабораторна робота 3 </title>
+      <link rel="stylesheet" href="style.css1">
+      <meta charset="UTF-8">
+    </head>
+    <body>
+     <div id="b1">
+       <div id="b2">
+         <img src="logo.jpg" alt"="логотип">
+         <h1 width="350" height="110" align="center"> Лабораторна робота №3 </h1>
+        <h2 width="350" height="110" align="center"> Сторінка </h2>
+          </div>
+         <div id="b3">
+         <ul>
+         <li> <a href="https://pdpu.edu.ua/"> Сайт </a>  
+         <li> <a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BD%D0%BE%D0%BF%D0%BA%D0%B8_YouTube" > Вікіпедія </a> 
+         <li> <a href="http://pnpu.brs.od.ua/" > Інформатика </a> 
+         </ul>
+     </div>
+        <div id="b4">
+                    <h3> <p> Сьогодны сонячно. </p>
+                     <p> Тепло. </p> </h3>
+                    <p> Діти радіють. </p>
+     </div>
+        <div id="b5">
+        <table border="1">
+                          <th> Букви </th>
+                       <tr>
+                          <td colspan="2" width="350" height="110" align="center"> А </td>
+                          <td width="350" height="110" align="center"> Б </td>
+                       </tr>
+                       <tr>                  
+                          <td width="350" height="110" align="center"> В </td>
+                          <td width="350" height="110" align="center"> Г </td>
+                          <td rowspan="3" width="350" height="110" align="center"> Д </td>
+                       </tr>                  
+                       <tr>
+                          <td width="350" height="110" align="center"> Е </td>
+                          <td width="350" height="110" align="center"> Ж </td>
+                       </tr>
+         </table>
+     </div>
+         <div id="b6'>
+                     &copy;Яловчук Валентина. 2020 
+     </div>
+                     </div>
+        </body>               
+                     </html>
 
