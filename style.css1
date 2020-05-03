@@ -1,0 +1,3 @@
+div {border: solid 5px #FFC0CB; margin:8px; font-style:oblique; font-weight:80; letter-spacing: 0,35em; font-size:20pt;}
+#b1 {width: 70% background-color:#DB7193; border:solid 5px #5671a2;}
+#b2 {
