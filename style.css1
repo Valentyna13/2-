@@ -1,3 +1,7 @@
 div {border: solid 5px #FFC0CB; margin:8px; font-style:oblique; font-weight:80; letter-spacing: 0,35em; font-size:20pt;}
 #b1 {width: 70% background-color:#DB7193; border:solid 5px #5671a2;}
-#b2 {
+#b2 {background-color: #D8BFD8; border: solid 5px #5671a2; letter-spacing: 0.5em;}
+#b3 {background-color: #FFEFD5; width: 40%; margin: 3px; border:solid 5px #5671a2; float: left; font-variant: small-caps;}
+#b4 {background-color: #FFDAB9; float: left; width 70%; border: solid 5px #5671a2; margin: 8px; font-family: sans-serif;}
+#b5 {background-color: #FFB6C1; border: solid 5px #5671a2; width 80%; clear: both; margin: 3px; font-style: oblique; text-decoration: line-through;}
+#b6 {clear:both;}
